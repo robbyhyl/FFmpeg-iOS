@@ -1,6 +1,6 @@
 #!/bin/sh
 
-git clone -b tool --depth 1 https://github.com/kewlbear/FFmpeg-iOS tool
+git clone -b tool --depth 1 https://github.com/robbyhyl/FFmpeg-iOS tool
 cd tool
 
 swift run
